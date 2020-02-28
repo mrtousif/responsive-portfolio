@@ -4,4 +4,3 @@ I have used no frameworks in this project. Only pure JavaScript, SASS, HTML is u
 
 Check this out at https://codertousif.github.io/responsive-portfolio/
 
-![portfolo-image](portfolio.png)
